@@ -1,0 +1,15 @@
+#home{
+    height: 100vh;
+    background: linear-gradient(to right, rgb(84, 13, 84), rgb(197, 156, 163));
+    color: white;
+    margin-bottom: 50px;
+}
+
+
+.btn{
+    border-radius: 15px;
+}
+
+#skills{
+    margin-top: 70px;
+}
