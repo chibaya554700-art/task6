@@ -1,5 +1,5 @@
 #home{
-    height: 100vh;
+    height: 150vh;
     background: linear-gradient(to right, rgb(84, 13, 84), rgb(197, 156, 163));
     color: white;
     margin-bottom: 50px;
@@ -13,3 +13,4 @@
 #skills{
     margin-top: 70px;
 }
+
