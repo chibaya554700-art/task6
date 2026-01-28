@@ -1,14 +1,10 @@
 #home{
-    min-height: 50vh;  
+    height: 100vh;
     background: linear-gradient(to right, rgb(84, 13, 84), rgb(197, 156, 163));
     color: white;
     margin-bottom: 50px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 40px 20px; 
 }
+
 
 .btn{
     border-radius: 15px;
